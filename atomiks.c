@@ -616,10 +616,17 @@ int main(int argc, char **argv) {
   }
 
   /* Init SDL and set the video mode */
-  if (gra_init(640, 480, videoflags, "Atomiks " PVER, img_tinyicon_bmp_gz, img_tinyicon_bmp_gz_len) != 0) {
-    puts("Error: unable to init screen!");
-    return(1);
-  }
+  #ifdef __GCW0__
+    if (gra_init(320, 240, videoflags, "Atomiks " PVER, img_tinyicon_bmp_gz, img_tinyicon_bmp_gz_len) != 0) {
+      puts("Error: unable to init screen!");
+      return(1);
+    }
+  #else
+    if (gra_init(640, 480, videoflags, "Atomiks " PVER, img_tinyicon_bmp_gz, img_tinyicon_bmp_gz_len) != 0) {
+      puts("Error: unable to init screen!");
+      return(1);
+    }
+  #endif
 
   /* init the audio system */
   if (snd_init() != 0) puts("Could not initialize the sound subsystem!");

@@ -12,7 +12,11 @@
 
 #include "gz.h"
 
+#ifdef __GCW0__
+#define SCALE 1
+#else
 #define SCALE 2
+#endif
 
 struct gra_sprite {
   SDL_Texture *ptr;
