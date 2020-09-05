@@ -1,0 +1,17 @@
+CFLAGS = -std=gnu89 -O3 -Wall -Wextra -pedantic -Wno-long-long
+LIB = -lmingw32 -lSDL2main -lSDL2 -lSDL2_mixer
+
+all: atomiks.exe
+
+atomiks.exe: atomiks.o atomcore.o cfg.o drv_gra.o drv_inp.o drv_snd.o drv_tim.o gz.o
+	windres atomiks.rc -O coff -o atomiks.res
+	gcc -mwindows atomiks.o atomiks.res atomcore.o cfg.o drv_gra.o drv_inp.o drv_snd.o drv_tim.o gz.o -o atomiks.exe $(LIB) $(CFLAGS)
+
+atomiks.o: atomiks.c data.h
+	gcc -c atomiks.c -o atomiks.o $(CFLAGS)
+
+editor.exe: editor.c atomcore.o drv_gra.o gz.o data.h
+	gcc -mwindows editor.c atomcore.o drv_gra.o gz.o $(LIB) -o editor.exe $(CFLAGS)
+
+clean:
+	del *.exe *.o

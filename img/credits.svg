@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="320"
+   height="450"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="credits.svg"
+   inkscape:export-filename="/home/mateusz/svn/atomiks/trunk/img/credits.png"
+   inkscape:export-xdpi="90.016685"
+   inkscape:export-ydpi="90.016685">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3796">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop3798" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop3800" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3788">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3790" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop3792" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3788"
+       id="radialGradient3794"
+       cx="16.549294"
+       cy="125.56338"
+       fx="16.549294"
+       fy="125.56338"
+       r="86.971832"
+       gradientTransform="matrix(0.57317929,-0.82643605,0.36437246,0.25271254,-38.688256,107.50887)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3796"
+       id="radialGradient3802"
+       cx="16.549292"
+       cy="125.56338"
+       fx="16.54929"
+       fy="125.56338"
+       r="87.471832"
+       gradientTransform="matrix(0.56990291,-0.821712,0.36228966,0.251268,-38.37251,107.61207)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.02"
+     inkscape:cx="37.830354"
+     inkscape:cy="360.81706"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="845"
+     inkscape:window-x="-3"
+     inkscape:window-y="-3"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-0.24752039,-887.2137)">
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Chancery L;-inkscape-font-specification:URW Chancery L Bold Italic"
+       x="158.05377"
+       y="948.46124"
+       id="text3012"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3014"
+         x="158.05377"
+         y="948.46124"
+         style="font-size:24px;font-style:normal;font-weight:500;text-align:center;line-height:125%;text-anchor:middle;-inkscape-font-specification:URW Chancery L Medium Italic">You completed the last molecule, and</tspan><tspan
+         sodipodi:role="line"
+         x="158.05377"
+         y="978.46124"
+         id="tspan3016"
+         style="font-size:24px;font-style:normal;font-weight:500;text-align:center;line-height:125%;text-anchor:middle;-inkscape-font-specification:URW Chancery L Medium Italic">the world has been saved once again.</tspan><tspan
+         sodipodi:role="line"
+         x="158.05377"
+         y="1008.4612"
+         id="tspan3018"
+         style="font-size:24px;font-style:normal;font-weight:500;text-align:center;line-height:125%;text-anchor:middle;-inkscape-font-specification:URW Chancery L Medium Italic">Good Job!</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3020"
+       style="font-size:18px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:URW Chancery L;-inkscape-font-specification:URW Chancery L Bold Italic"
+       transform="translate(-1.6068546,876.88428)"><flowRegion
+         id="flowRegion3022"><rect
+           id="rect3024"
+           width="307.92081"
+           height="226.23764"
+           x="6.4356437"
+           y="296.05219"
+           style="line-height:150%" /></flowRegion><flowPara
+         id="flowPara3028"
+         style="font-size:24px;font-style:normal;font-weight:500;text-align:center;line-height:150%;text-anchor:middle;-inkscape-font-specification:URW Chancery L Medium Italic">Programming: Mateusz Viste</flowPara><flowPara
+         id="flowPara3032"
+         style="font-size:24px;font-style:normal;font-weight:500;text-align:center;line-height:150%;text-anchor:middle;-inkscape-font-specification:URW Chancery L Medium Italic">Idea and original design: Softtouch</flowPara><flowPara
+         id="flowPara3036"
+         style="font-size:24px;font-style:normal;font-weight:500;text-align:center;line-height:150%;text-anchor:middle;-inkscape-font-specification:URW Chancery L Medium Italic">Graphics: Rolf Steffens</flowPara><flowPara
+         id="flowPara3038"
+         style="font-size:24px;font-style:normal;font-weight:500;text-align:center;line-height:150%;text-anchor:middle;-inkscape-font-specification:URW Chancery L Medium Italic">Music and SFX: Manfred Nöcken</flowPara></flowRoot>  </g>
+</svg>

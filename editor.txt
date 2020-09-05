@@ -1,0 +1,30 @@
+
+***              Atomiks level editor              ***
+***  Copyright (C) Mateusz Viste 2013, 2014, 2015  ***
+
+
+This is the documentation for the Atomiks level editor.
+
+Usage: editor levnum
+
+where 'levnum' is the level number, as stored in the lev/ directory.
+
+
+== Key bindings =============================================================
+  ESC            - exit editor
+  LFT/RGHT/UP/DW - navigate on the field
+  SPACE          - browse items
+  ENTER          - switch to another item type (wall/atom/...)
+  INSERT         - copy the last inserted element
+  DELETE         - clear out the case
+  TAB            - switch between level view / solution view
+  MINUS (numpad) - decrease level's timeout
+  PLUS (numpad)  - increase level's timeout
+  F1             - move text cursor on level's name
+  F2             - switch the level's cursor type
+  F3             - switch the level's background
+  F5             - save level to disk
+  A-Z            - change the selected letter of level's name
+  . (period)     - remove the selected letter of level's name
+
+=============================================================================
