@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Atomiks
+Comment=Atomix port
+Exec=./run.sh
+Terminal=false
+Type=games
+StartupNotify=true
+Icon=icon
+Categories=games
+X-OD-NeedsDownscaling=true
