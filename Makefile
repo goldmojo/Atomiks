@@ -12,7 +12,6 @@ CFLAGS += -D__GCW0__
 else
 CC = gcc
 BINARY = atomiks
-CFLAGS += -D__GCW0__
 endif
 
 all: $(BINARY)
